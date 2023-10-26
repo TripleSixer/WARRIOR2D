@@ -3,5 +3,5 @@
 	"BannedUserIDList": [
 		"player1ID"
 	],
-	IsInMaintenance: true
+	"IsInMaintenance": true
 }
