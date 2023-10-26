@@ -2,5 +2,6 @@
 	"Version": "1.1",
 	"BannedUserIDList": [
 		"player1ID"
-	]
+	],
+	IsInMaintenance: true
 }
