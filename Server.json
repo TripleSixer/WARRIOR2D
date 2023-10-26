@@ -1,10 +1,6 @@
 {
-	"Title": "hi nigga",
-	"DiscountItems": [
-	"3223"
-	],
-	"SpecialItems" : [
-	
-	"343"
+	"Version": 1.1,
+	"BannedUserIDList": [
+		"player1ID"
 	]
 }
