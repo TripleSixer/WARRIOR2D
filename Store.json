@@ -1,9 +1,9 @@
 {
-	"Title": "hi nigga",
-	"DiscountItems": [
+	"Title": "hi",
+	"DiscountItemIDs": [
 	"3223"
 	],
-	"SpecialItems" : [
+	"SpecialItemIDs" : [
 	
 	"343"
 	]
