@@ -1,3 +1,6 @@
 # WARRIOR2D
 TESTING
-AdOperator: 1:unityAds, 2:admobAds
+WORK FOR PURCHASES
+
+g blok oturma yerinde 2 kızla konuşmuştum tedu 102 ve calculus üzerine. Salı günüydü
+biri ilköğretim matematik öğretmenliği okuyodu sanırım beğensin ben bulurum
