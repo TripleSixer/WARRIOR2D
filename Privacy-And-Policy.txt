@@ -1,0 +1,7 @@
+Modeller ikiye ayrılıyor 
+Body Parts dediğim vücut parçaları
+ve üstlerine gelen body clothes, kıyafetler 
+benim senden isteyeceğim şey vücut parçaları üzerinden kıyafet tasarlaman. 
+Ancak tasarımın bittikten sonra vücut parçası olmadan sadece kıyafetin kaydedilmesi lazım.
+yani vücut parçası ve kıyafeti farklı 2 dosya olması lazım.
+vücut parçaları sabit senden sadece üzerine kıyafet tasarımı yapmanı isticem
