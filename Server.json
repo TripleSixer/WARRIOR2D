@@ -3,7 +3,7 @@
 	"BannedUserIDList": [
 		"player1ID"
 	],
-	"TimeServer": "http://worldtimeapi.org/api/timezone/Europe/London",
+	"DateTimeServer": "http://worldtimeapi.org/api/timezone/Europe/London",
 	"IsInMaintenance": false,
 	"AdOperator": 2
 }
