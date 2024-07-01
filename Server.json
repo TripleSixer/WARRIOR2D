@@ -5,5 +5,11 @@
 	],
 	"DateTimeServer": "http://worldtimeapi.org/api/timezone/Europe/London",
 	"IsInMaintenance": false,
-	"AdOperator": 2
+	"AdOperator": 2,
+	"BannedUserIDs": [
+		"player1ID"
+	],
+	"BannedMachineIDs": [
+		"player1ID"
+	]
 }
