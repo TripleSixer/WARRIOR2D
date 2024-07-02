@@ -1,8 +1,5 @@
 {
 	"Version": "177",
-	"BannedUserIDList": [
-		"player1ID"
-	],
 	"DateTimeServer": "http://worldtimeapi.org/api/timezone/Europe/London",
 	"IsInMaintenance": false,
 	"AdOperator": 1,
