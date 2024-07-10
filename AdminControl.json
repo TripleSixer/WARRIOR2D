@@ -1,5 +1,5 @@
 {
 	"UserID": "SampleUserID her",
-	"Process": "SET_MONEY",
-	"ProcessValueStr": "2333"
+	"Process": "SET_RANK",
+	"ProcessValueStr": "57"
 }
