@@ -1,6 +1,6 @@
 {
 	"Version": "188",
-	"IsInMaintenance": true,
+	"IsInMaintenance": false,
 	"DateTimeServer": "http://worldtimeapi.org/api/timezone/Europe/London",
 	"AdOperator": 2,
 	"BannedUserIDs": [
