@@ -2,7 +2,7 @@
 	"Version": "188",
 	"IsInMaintenance": false,
 	"DateTimeServer": "http://worldtimeapi.org/api/timezone/Europe/London",
-	"AdOperator": 1,
+	"AdOperator": 2,
 	"BannedUserIDs": [
 		"player1ID"
 	],
