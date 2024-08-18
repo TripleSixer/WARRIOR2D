@@ -2,7 +2,7 @@
 	"Version": "295",
 	"DebugVersion": "261",
 	"IsInMaintenance": false,
-	"DateTimeServer": "http://worldtimeapi.org/api/timezone/Europe/London",
+	"DateTimeServer": "https://www.timeapi.io/api/Time/current/zone?timeZone=Europe/Amsterdam",
 	"AdOperator": 2,
 	"BannedUserIDs": [
 		"player1ID"
