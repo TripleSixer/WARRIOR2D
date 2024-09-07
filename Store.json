@@ -3,8 +3,7 @@
 	"DiscountItemIDs": [
 	"3223"
 	],
-	"SpecialItemIDs" : [
-	
-	"343"
+	"ItemStoreIDs" : [ 
+		81
 	]
 }
