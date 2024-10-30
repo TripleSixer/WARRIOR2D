@@ -4,7 +4,7 @@
 	"IsInMaintenance": false,
 	"DateTimeServer": "https://www.timeapi.io/api/Time/current/zone?timeZone=Europe/Amsterdam",
 	"AdOperator": 2,
-	"InterstitialRange": 3,
+	"InterstitialRange": 2,
 	"BannedUserIDs": [
 		"player1ID"
 	],
