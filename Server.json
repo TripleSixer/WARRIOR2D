@@ -3,7 +3,7 @@
 	"DebugVersion": "261",
 	"IsInMaintenance": false,
 	"DateTimeServer": "https://www.timeapi.io/api/Time/current/zone?timeZone=Europe/Amsterdam",
-	"AdOperator": 2,
+	"AdOperator": 1,
 	"InterstitialRange": 4,
 	"BannedUserIDs": [
 		"player1ID"
